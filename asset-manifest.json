@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio-framework/static/css/main.046bf770.css",
+    "main.js": "/portfolio-framework/static/js/main.aab1be59.js",
+    "static/media/realestate.jpg": "/portfolio-framework/static/media/realestate.44fd19f4c6872731149c.jpg",
+    "static/media/ganache.png": "/portfolio-framework/static/media/ganache.144924c71d021e4a13d9.png",
+    "static/media/aws.png": "/portfolio-framework/static/media/aws.5ceeed1c98e83746fe94.png",
+    "static/media/workImg.jpeg": "/portfolio-framework/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
+    "static/media/EIlogo.png": "/portfolio-framework/static/media/EIlogo.51d09bd9b7d115aff318.png",
+    "static/media/python.png": "/portfolio-framework/static/media/python.3e8a90f52b67ce17a3f4.png",
+    "static/media/react.png": "/portfolio-framework/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/truffle.png": "/portfolio-framework/static/media/truffle.0c84dcae5b62475afc7c.png",
+    "static/media/github.png": "/portfolio-framework/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/postgres.png": "/portfolio-framework/static/media/postgres.6c5d698f195dac2fe5af.png",
+    "static/media/html.png": "/portfolio-framework/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/portfolio-framework/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/portfolio-framework/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/portfolio-framework/index.html",
+    "main.046bf770.css.map": "/portfolio-framework/static/css/main.046bf770.css.map",
+    "main.aab1be59.js.map": "/portfolio-framework/static/js/main.aab1be59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.046bf770.css",
+    "static/js/main.aab1be59.js"
+  ]
+}

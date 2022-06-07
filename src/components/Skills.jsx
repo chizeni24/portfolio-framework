@@ -20,15 +20,15 @@ const Skills = () => {
   return (
     <div name='skills' className='w-full h-screen text-gray-300 bg-[#0a192f]'>
       {/* Containers*/}
-      <div className='max-w-[1000px] mx-auto px-4 flex flex-col h-full'>
+      <div className='max-w-[1000px] mx-auto px-4 flex flex-col justify-center h-full'>
         <div>
-          <p className='text-4xl inline font-bold border-b-4 border-pink-600'>Experience:</p>
+          <p className='text-4xl inline font-bold border-b-4 border-pink-600'>Skills</p>
           <p className='py-4'>These are the technologies I have experience with</p>
         </div>
 
-        <div className='w-full grid grid-cols-2 md:grid-cols-3 sm:grid-col-4 gap-4 text-center py-8'>
+        <div className='w-full grid grid-cols-2 sm:grid-col-4 gap-4 text-center py-8'>
           <div className= 'shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-            <img className='w-20 mx-auto' src={HTML} alt= "HTML icon" />
+            <img className='w-20 mx-auto' src={HTML} alt= "HTML icon"/>
             <p className='my-4'>HTML</p>           
           </div>
           <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
